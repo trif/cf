@@ -1,2 +1,2 @@
 # cf
-Small coldfusion projects UPDATED PUSH
+Small coldfusion snippets
